@@ -390,3 +390,9 @@ This is a complete web development resource you need to build your next project.
 - [Wes Bos](https://www.youtube.com/channel/UCoebwHSTvwalADTJhps0emA)
 - [Codevolution](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw)
 - [CodewithHarry](https://www.youtube.com/@CodeWithHarry)
+
+  
+
+
+### Credits
+"Originally compiled by Ismile Hossain. Modified and extended by me."
