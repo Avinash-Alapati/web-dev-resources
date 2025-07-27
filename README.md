@@ -353,6 +353,7 @@ This is a complete web development resource you need to build your next project.
 - [Overleaf](https://www.overleaf.com/) - Overleaf is a LaTeX editor which can be used to create ATS friendly resumes.
 - [Resume Worded](https://resumeworded.com/) - Resume Worded can be used to check whether your resume is ATS friendly or not.
 - [Open Resume](https://www.open-resume.com/) - Open Resume is an open source Resume builder and parser.
+- [Resume Worded](https://resumeworded.com/score) - Get expert feedback on your resume, instantly
 
 ### 📦 OTHERS
 
@@ -375,6 +376,8 @@ This is a complete web development resource you need to build your next project.
 - [freeCodeCamp News](https://www.freecodecamp.org/news/) - Free Code Camp community news.
 - [Smashing Magazine](https://www.smashingmagazine.com) - Smashing Magazine — for web designers and developers.
 - [Hashnode](https://hashnode.com) - Hashnode is a free content creation platform and community that allows you to publish articles on your own domain.
+- [Reddit](https://www.reddit.com/r/developerIndia/) - Reddit is Heart of internet where yoou can connect with other developers
+- [Stack OverFlow](https://stackoverflow.com/questions) - Ask questions, find answers and collaborate at work with Stack Overflow
 
 ### 📺 YOUTUBE CHANNELS
 
@@ -386,3 +389,4 @@ This is a complete web development resource you need to build your next project.
 - [LearnCode.academy](https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw)
 - [Wes Bos](https://www.youtube.com/channel/UCoebwHSTvwalADTJhps0emA)
 - [Codevolution](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw)
+- [CodewithHarry](https://www.youtube.com/@CodeWithHarry)
